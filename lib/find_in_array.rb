@@ -7,3 +7,12 @@ def find_element_index(array, value_to_find)
    count += 1                                    #adjust for the next loop iteration to progress through
  end
 end
+
+
+
+
+
+
+#def find_element_index(array, value_to_find)     this simplified version allows for the the same function, but the above allows           
+#  array.index(value_to_find)                     visualization of what is actually occuring
+#end
